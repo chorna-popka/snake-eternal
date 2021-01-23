@@ -1,0 +1,3 @@
+gradient = ["FFFFFF", "F9F2F2", "F3E5E5", "EDD8D8", "E7CCCC", "E2BFBF", "DCB2B2", "D6A5A5",
+            "D09999", "CA8C8C", "C57F7F", "BF7272", "B96666", "B35959", "AD4C4C", "A83F3F",
+            "A23232", "9C2626", "961919", "900C0C", "8B0000"]
